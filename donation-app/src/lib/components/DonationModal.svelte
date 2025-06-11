@@ -93,7 +93,6 @@
           bind:value={phone}
           required
           placeholder="e.g. 07........"
-          pattern="^(?:0|\\+254|254)([17])\\d{8}$"
           class="form-input"
         >
       </div>
