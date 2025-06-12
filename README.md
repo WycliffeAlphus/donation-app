@@ -27,8 +27,3 @@ npm run dev -- --open
 ```
 Follow the link to access the application.
 
-The admin area can be accessed using:
-
-```bash
-http://localhost:5173/admin
-```
