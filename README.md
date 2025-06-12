@@ -11,6 +11,12 @@ then change directory:
 cd donation-app
 ```
 
+Install dependencies:
+
+```bash
+npm install
+```
+
 Start a development server:
 
 ```bash
